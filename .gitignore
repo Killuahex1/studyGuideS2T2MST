@@ -1,0 +1,7 @@
+# Allow-list: only the built page goes to GitHub. Everything else here is private:
+# the key file, class codes, Brightspace notes, CLAUDE.md (name + school), source with notes-data.js.
+/*
+!/.gitignore
+!/docs/
+/docs/*
+!/docs/index.html
